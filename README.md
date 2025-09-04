@@ -54,5 +54,4 @@ react, react-dom
 vite
 flatpickr
 
-📜 License
-MIT License – free to use & modify.
+
